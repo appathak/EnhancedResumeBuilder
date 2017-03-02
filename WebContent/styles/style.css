@@ -1,0 +1,55 @@
+*{margin:0 auto;}
+h1{width:600px; background-color:#979797; color:#fff; margin-top:10px;}
+#edDetails{width:400px; background-color:#eee; height:200px; padding:20px 5px 5px 5px;}
+#edDetails p{float:left; background-color:#666; width:100px; padding:10px; margin:10px 0px 0px 5px;}
+#edDetails p button{padding:15px; margin:0px 0px 0px 0px; width:100px;}
+
+#edDetails1{width:400px; height:auto; padding:20px 5px 5px 5px; display:none; background-color:#999;}
+#edDetails1 input{padding:10px 0px 10px 0px; border-radius:5px; margin:0px 5px 5px 0px; float:left;}
+#edDetails1 p{padding:0px;}
+#edDetails1 div{padding:5px; background-color:#FCC; width:380px; height:150px;}
+#edDetails1 button{padding:10px; float:right;}
+#edB{background-color:#888; height:30px; width:380px;  }
+#edB button{padding:5px 10px 5px 10px; border-radius:100%; float:left;}
+
+#jobs{width:400px; background-color:#eee; height:270px; padding:20px 5px 5px 5px; display:none;}
+#jobs input{padding:10px 0px 10px 0px; border-radius:5px; margin:0px 5px 5px 0px; float:left;}
+#jobs textarea{width:380px; height:130px;}
+#jobs button{padding:10px; float:right; margin-top:5px;}
+
+#intr{width:400px; background-color:#eee; height:270px; padding:20px 5px 5px 5px; display:none;}
+#intr input{padding:10px 0px 10px 0px; border-radius:5px; margin:0px 5px 5px 0px; float:left;}
+#intr textarea{width:380px; height:130px;}
+#intr button{padding:10px; float:right; margin-top:5px;}
+
+#pos{width:400px; background-color:#eee; height:200px; padding:20px 5px 5px 5px; display:none;}
+#pos input{padding:10px 0px 10px 0px; border-radius:5px; margin:0px 5px 5px 0px; float:left;}
+#pos textarea{width:380px; height:130px;}
+#pos button{padding:10px; float:right; margin-top:5px;}
+
+
+#proj{width:400px; background-color:#eee; height:270px; padding:20px 5px 5px 5px; display:none;}
+#proj input{padding:10px 0px 10px 0px; border-radius:5px; margin:0px 5px 5px 0px; float:left;}
+#proj textarea{width:380px; height:130px;}
+#proj button{padding:10px; float:right; margin-top:5px;}
+
+#skill{width:400px; background-color:#eee; height:270px; padding:20px 5px 5px 5px; display:none;}
+#skill input{padding:10px 0px 10px 0px; border-radius:5px; margin:0px 5px 5px 0px; float:left;}
+#skill textarea{width:380px; height:130px;}
+#skill button{padding:10px; float:right; margin-top:5px;}
+
+#ws{width:400px; background-color:#eee; height:270px; padding:20px 5px 5px 5px; display:none;}
+#ws input{padding:10px 0px 10px 0px; border-radius:5px; margin:0px 5px 5px 0px; float:left;}
+#ws textarea{width:380px; height:130px;}
+#ws button{padding:10px; float:right; margin-top:5px;}
+
+#c{width:400px; background-color:#eee; height:270px; padding:20px 5px 5px 5px; display:none;}
+#c input{padding:10px 0px 10px 0px; border-radius:5px; margin:0px 5px 5px 0px; float:left;}
+#c textarea{width:380px; height:130px;}
+#c button{padding:10px; float:right; margin-top:5px;}
+
+#a{width:400px; background-color:#eee; height:270px; padding:20px 5px 5px 5px; display:none;}
+#a input{padding:10px 0px 10px 0px; border-radius:5px; margin:0px 5px 5px 0px; float:left;}
+#a textarea{width:380px; height:130px;}
+#a button{padding:10px; float:right; margin-top:5px;}
+
